@@ -1,0 +1,92 @@
+Script started on Wed Apr 13 08:36:40 2016
+[?1034hbash-3.2$ python3 interest.py 
+Initial balance: 1000
+Annual interest % 6
+Years: 5
+Traceback (most recent call last):
+  File "interest.py", line 28, in <module>
+    print("Interest earned in "+years+" years: $"+interest_earned)
+TypeError: Can't convert 'int' object to str implicitly
+bash-3.2$ python3 interest.py 
+Initial balance: 1000
+Annual interest % 6
+Years: 5
+Interest earned in 5 years: $348.8501525493075
+Total value after 5 years: $1348.8501525493075
+bash-3.2$ python3 interest.py [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpython3
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import math
+>>> math.q[Ksqrt(3)
+1.7320508075688772
+>>> sqrt3 = math.sqrt(3)
+>>> r[Kprint(sqrt3)
+1.7320508075688772
+>>> sqrt3**2
+2.9999999999999996
+>>> 51.[K[K.1-2.6
+2.4999999999999996
+>>> roun([Kd(5-1.2.6)2.6)[K-2.6)2.6[P1[1@.11-
+2
+>>> round(5.1-2.6),) )2)
+2.5
+>>> round(5.1-2.6, 2))[K6)
+2.5
+>>> round(5.1-2.6, 6)2))[K, 2), 2)[K, 2)[K, 2)[K, 2)[K, 2)[K, 2)[K, 2)[Ks, 2)q, 2)r, 2)t, 2)(, 2)3, 2)), 2)[1@ms[1@as[1@ts[1@hs[1@/s[Ps[1@.ssqrt(3), 2)[K3)
+1.732
+>>> var = 3
+>>> type(t[Kvar)
+<class 'int'>
+>>> var = "Hello"
+>>> type*var[K[K[K[K(var)
+<class 'str'>
+>>> msg = "Hello World"
+>>> m[Kmsg.upper()
+'HELLO WORLD'
+>>> upper()[K[K[K[K[K[K[Kprint(msg)
+Hello World
+>>> "Hello World".swapC[Kcase()
+'hELLO wORLD'
+>>> imor[K[Kporr r[K[Kt turtle
+>>> turtle.Screen()
+<turtle._Screen object at 0x101b3a9b0>
+>>> myT[K_turtle = tutr[K[Krte.[K[Kle.Turtle()
+>>> type(my_turt[Ktle)
+<class 'turtle.Turtle'>
+>>> my_turtle.forwar(0[K10[K[K[Kd(100)
+>>> my_turtle.forward(100)00)[K)[K)[K)[K)[K)[K)[K)[K)[K)[K[K[Kright([K[K[K[K[K[Kleft(120)
+>>> my_rtu[K[K[Kturtle.left(120)[K[K[K[K[15Gforward(100)
+>>> my_turtle.forward(100)[15Gleft(120)[K
+^[[A>>> my_turtle.left(120)[15Gforward(100)
+>>> my_turtle.clor[K[K[Kl[Kolor("red)[K")
+>>> my_turtle.color("red")[15Gforward(100)
+>>> x = 33[K
+>>> y = 4
+>>> x > y
+False
+>>> x > y[K[K[Ky < x
+False
+>>> y < x[K[K[Kx < y
+True
+>>> "cat" >[K< "dog"
+True
+>>> "cat" < "dog"[K[K[K[Karmadillo"
+False
+>>> ^D
+bash-3.2$ python3 decision.py 
+  File "decision.py", line 4
+    print("wear a jacket")
+        ^
+IndentationError: expected an indented block
+bash-3.2$ Trut[K[K[K[Kpython3
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> tTrue [K[K[K[K[KTrue and True[K[K[K[K[K[K[K[K[K[K[Kboolean  [K[K[K[K[K[K1 = x >[K[K3 > 4
+>>> b2 = 4 < x[K[K< 3
+>>> no[K[K(not A) and (not B)[K[Pn[P [Pnnot A   A and not B[K[K[K[K[K[K[K[K[K[K[K^D
+bash-3.2$ quit[K[K[K[Kexit
+exit
+
+Script done on Wed Apr 13 10:22:19 2016
